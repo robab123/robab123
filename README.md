@@ -1,121 +1,85 @@
-<h1 align="center">Hi 👋, I'm Robab</h1>
+<h1 align="center">Hi 👋, I'm Robab Atiq</h1>
 
-<h3 align="center">
-Full Stack Web Developer • Graphic Designer • PHP & Laravel Developer
-</h3>
+<h3 align="center">💻 Full Stack Web Developer • 🎨 Graphic Designer • 🚀 PHP & Laravel Developer</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;PHP+%26+Laravel+Developer;Graphic+Designer;Learning+React.js+%26+TypeScript;Welcome+to+my+GitHub!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Full+Stack+Web+Developer;PHP+%26+Laravel+Developer;Graphic+Designer;Learning+React.js+%26+TypeScript;Welcome+to+my+GitHub!" />
+</p>
+
+<p align="center">
+<a href="https://my123-portfolio.lovable.app"><img src="https://img.shields.io/badge/🌐_Portfolio-Visit-0A66C2?style=for-the-badge"></a>
+<a href="https://www.linkedin.com/in/rubab-atiq-675945406/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.behance.net/urobab"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"></a>
+<a href="mailto:rubabatiq0@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-- 🔭 Currently building **PHP & Laravel Projects**
-- 🌱 Learning **React.js & TypeScript**
-- 👨‍💻 Full Stack Web Developer & Graphic Designer
-- 💬 Ask me about **PHP, Laravel, MySQL, HTML, CSS, JavaScript & Bootstrap**
-- 🎨 Skilled in **Photoshop, Illustrator, Canva & Figma**
-- ⚡ Passionate about building modern websites & creative UI designs
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://my123-portfolio.lovable.app">
-<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/rubab-atiq-675945406/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://www.behance.net/urobab">
-<img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"/>
-</a>
-
-<a href="mailto:rubabatiq0@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
+- 🔭 Building **PHP & Laravel** projects
+- 🌱 Currently learning **React.js** & **TypeScript**
+- 🎨 Graphic Designer (Photoshop, Illustrator, Canva, Figma)
+- 💡 Interested in modern UI/UX & responsive web apps
+- 🤝 Open to internships, freelance & full‑time opportunities
 
 ---
 
 # 💻 Tech Stack
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,bootstrap,react,git,github,figma,ps,ai"/>
-
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,bootstrap,jquery,react,git,github,figma,ps,ai" />
 </p>
 
 ---
 
-# 🚀 Featured Projects
+# 🌟 Featured Projects
 
 | Project | Live Demo |
 |---------|-----------|
-| 🌐 Portfolio | https://my123-portfolio.lovable.app |
+| 🌐 Portfolio Website | https://my123-portfolio.lovable.app |
 | 💼 Job Portal | https://jobportalplatform.lovable.app |
 | 🍽️ Restaurant Website | https://tasty-growth-boost.lovable.app |
-| 👗 Fashion Website | https://luxury-fashion-house.lovable.app |
+| 👗 Luxury Fashion Website | https://luxury-fashion-house.lovable.app |
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Statistics
 
-<p align="center">
+![](https://github-readme-stats.shion.dev/api?username=robab123&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=robab123&show_icons=true&theme=tokyonight"/>
+![](https://streak-stats.demolab.com/?user=robab123&theme=dark&hide_border=false)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robab123&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=robab123&theme=tokyonight"/>
-
-</p>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=robab123&theme=dark&hide_border=false&layout=compact)
 
 ---
 
 # 🏆 GitHub Trophies
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=robab123&theme=tokyonight&row=1&column=6"/>
-
-</p>
+![](https://github-profile-trophy.vercel.app/?username=robab123&theme=tokyonight&row=1&column=6)
 
 ---
 
 # 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=robab123&theme=tokyo-night"/>
+![](https://github-readme-activity-graph.vercel.app/graph?username=robab123&theme=tokyo-night)
 
 ---
 
-# 👀 Profile Views
+# ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=robab123&style=for-the-badge&color=blue"/>
-
+<img src="https://komarev.com/ghpvc/?username=robab123&style=for-the-badge&color=blue" />
 </p>
 
----
+<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
 
-<h3 align="center">
-
-⭐ Thanks for visiting my profile ⭐
-
-</h3>
+<!-- Future upgrades:
+🐍 Snake animation
+🎨 Custom banner
+⚡ GitHub Actions auto-updates
+-->
