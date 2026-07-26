@@ -29,7 +29,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,bootstrap,jquery,react,git,github,figma,ps,ai" />
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" alt="Canva" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="48" height="48" alt="Canva"/>-->
 </p>
 
 ---
