@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Robab Atiq</h1>
+<h1 align="center">Hi 👋, I'm Rubab Atiq</h1>
 
 <h3 align="center">💻 Full Stack Web Developer • 🎨 Graphic Designer • 🚀 PHP & Laravel Developer</h3>
 
