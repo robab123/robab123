@@ -3,7 +3,7 @@
 <h3 align="center">💻 Full Stack Web Developer • 🎨 Graphic Designer • 🚀 PHP & Laravel Developer</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Full+Stack+Web+Developer;PHP+%26+Laravel+Developer;Graphic+Designer;Learning+React.js+%26+TypeScript;Welcome+to+my+GitHub!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Full+Stack+Web+Developer;PHP+%26+Laravel+Developer;Graphic+Designer;Welcome+to+my+GitHub!" />
 </p>
 
 <p align="center">
